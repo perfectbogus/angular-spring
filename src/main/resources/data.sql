@@ -1,0 +1,4 @@
+INSERT INTO employee (name, email, job_title, phone, image_url, employee_code) values ('eduardo', 'eduardo@email.com', 'developoer', '5512345678', 'url', 'A1');
+INSERT INTO employee (name, email, job_title, phone, image_url, employee_code) values ('jose', 'jose@email.com', 'developoer', '5512345678', 'url', 'A2');
+INSERT INTO employee (name, email, job_title, phone, image_url, employee_code) values ('escobar', 'escobar@email.com', 'developoer', '5512345678', 'url', 'A3');
+INSERT INTO employee (name, email, job_title, phone, image_url, employee_code) values ('badillo', 'badillo@email.com', 'developoer', '5512345678', 'url', 'A4');
