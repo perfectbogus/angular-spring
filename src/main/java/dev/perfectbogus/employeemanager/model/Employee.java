@@ -18,7 +18,7 @@ public class Employee implements Serializable {
     private Long id;
     private String name;
     private String email;
-    private String jobTittle;
+    private String jobTitle;
     private String phone;
     private String imageUrl;
 
